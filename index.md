@@ -5,9 +5,6 @@
 
 <h2> Website Outline</h2> 
 
-<p>
-  Seasons of mists and mellow fruitfulness<br>
-  Close-bosomed friend of the maturing sun<br>
   </p>
   <p>How to make a cup of tea</p>
   <hr>
