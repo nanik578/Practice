@@ -2,7 +2,7 @@
 
 <a href="https://study.com/cimages/multimages/16/europe_tricolor_flags.png"
 title="View Image Source">
-<img style= "width:50%; border:1px solid green;"
+<img style= "width:50%; border:1px solid green; margin-left:30.5%;"
 src="https://study.com/cimages/multimages/16/europe_tricolor_flags.png"
   alt="France in Europe" >
 </a>
