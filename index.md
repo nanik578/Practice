@@ -1,6 +1,6 @@
-<h1> Welcome!</h1> 
+<h1> Bonjour!</h1> 
 
-<p>This website is about English Language, culture and literature.</p>
+<p>This website aims to aid the teaching of french for kids aged 5-11 and hopes students will become more comfortable using the French language over time .</p>
 
 
 <h2> Ode to Autumn</h2> 
