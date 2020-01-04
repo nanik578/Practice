@@ -4,9 +4,6 @@
 
 
 <h2> Website Outline: </h2> 
-
-  </p>
-  <p>How to make a cup of tea</p>
   <hr>
   <ol>
   <li>Boil the water </li>
