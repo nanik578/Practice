@@ -1,6 +1,9 @@
 <h1> Bonjour!</h1> 
+
 <img style="width: 50%; border:1px solid green; margin-left:30.5%;"
+<img
 src= "https://study.com/cimages/multimages/16/europe_tricolor_flags.png" alt= "Map of France in Europe" >
+<a/>
 
 
 <p>This website aims to aid the teaching of french for kids aged 5-11 and hopes students will become more comfortable using the French language over time.</p>
