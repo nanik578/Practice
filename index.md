@@ -3,7 +3,7 @@
 <p>This website aims to aid the teaching of french for kids aged 5-11 and hopes students will become more comfortable using the French language over time.</p>
 
 
-<h2> Ode to Autumn</h2> 
+<h2> Website Outline</h2> 
 
 <p>
   Seasons of mists and mellow fruitfulness<br>
