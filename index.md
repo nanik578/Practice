@@ -1,7 +1,11 @@
 <h1> Bonjour!</h1> 
 
+<a
+href="https://study.com/cimages/multimages/16/europe_tricolor_flags.png"
+title="View Image Source">
 <img src="https://study.com/cimages/multimages/16/europe_tricolor_flags.png"
 alt="France in Europe" >
+</a>
 
 <p>This website aims to aid the teaching of french for kids aged 5-11 and hopes students will become more comfortable using the French language over time.</p>
 
