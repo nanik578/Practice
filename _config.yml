@@ -1,1 +1,4 @@
 theme: jekyll-theme-cayman
+github:
+  page2: page2.html
+  page3: page3.html
