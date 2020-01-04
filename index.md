@@ -5,11 +5,11 @@
 
 <h2> Website Outline: </h2> 
   <ol>
-  <li>Boil the water </li>
-  <li>Get a teabag </li>
-  <li>Pour the water in the mug </li>
-  <li>Stir and add milk </li>
-   
+  <li> About France </li>
+  <li> Numbers </li>
+  <li> Weather </li>
+  <li> Grammar </li>
+  <li> Vocabulary </li>  
   </ol>
 
   <h3> Things to get done</h3> 
