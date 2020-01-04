@@ -21,7 +21,8 @@ src="https://study.com/cimages/multimages/16/europe_tricolor_flags.png"
 
   <h3> How do children learn French? </h3> 
   <ul>
-  <li></li>
+  <li> French Games
+          French games for kids includes a variety of games such as memory matching, fill in the blanks, drag and drops and many more examples. </li>
   <li>Read the Assessment Instructions</li>
   <li>Do the quiz by next week</li>
    
