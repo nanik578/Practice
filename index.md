@@ -4,7 +4,6 @@
 
 
 <h2> Website Outline: </h2> 
-  <hr>
   <ol>
   <li>Boil the water </li>
   <li>Get a teabag </li>
