@@ -1,9 +1,10 @@
 <h1> Bonjour!</h1> 
 
+<a 
+href=""https://study.com/cimages/multimages/16/europe_tricolor_flags.png" alt= "Map of France in Europe">
 <img style="width: 50%; border:1px solid green; margin-left:30.5%;"
-<a href=""https://study.com/cimages/multimages/16/europe_tricolor_flags.png" alt= "Map of France in Europe" >
 <img
-src= "https://study.com/cimages/multimages/16/europe_tricolor_flags.png" alt= "Map of France in Europe" >
+src= "https://study.com/cimages/multimages/16/europe_tricolor_flags.png" alt= "Map of France in Europe">
 <a/>
 
 
