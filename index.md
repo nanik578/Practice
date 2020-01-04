@@ -3,7 +3,7 @@
 <p>This website aims to aid the teaching of french for kids aged 5-11 and hopes students will become more comfortable using the French language over time.</p>
 
 
-<h2> Website Outline</h2> 
+<h2> Website Outline: </h2> 
 
   </p>
   <p>How to make a cup of tea</p>
