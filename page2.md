@@ -2,7 +2,7 @@
 
 <h2> About France! <h2>
 
-This section of the site is desgined to give you a greater knowledge of France!
+<p> This section of the site is desgined to give you a greater knowledge of France!</p>
 
 
 
