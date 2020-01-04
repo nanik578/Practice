@@ -1,5 +1,5 @@
 <h1> Bonjour!</h1> 
-<img style="width: 50%; border:1px solid green; margin-left:15%;"
+<img style="width: 50%; border:1px solid green; margin-left:25%;"
 src= "https://study.com/cimages/multimages/16/europe_tricolor_flags.png" alt= "Map of France in Europe" >
 
 
