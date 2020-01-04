@@ -5,11 +5,11 @@
 
 <h2> Website Outline: </h2> 
   <ol>
-  <li> About France </li>
-  <li> Numbers </li>
-  <li> Weather </li>
-  <li> Grammar </li>
-  <li> Vocabulary </li>  
+  <li> Page 1 - About France </li>
+  <li> Page 2 - Numbers </li>
+  <li> Page 3 - Weather </li>
+  <li> Page 4 - Grammar </li>
+  <li> Page 5 - Vocabulary </li>  
   </ol>
 
   <h3> Things to get done</h3> 
