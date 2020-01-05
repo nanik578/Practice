@@ -4,6 +4,9 @@
 
 <img src="https://www.google.com/search?q=numbers+0-100+french&safe=strict&rlz=1C5CHFA_enGB859GB859&sxsrf=ACYBGNQauuk5DDk_DW1FA6Z0j24JYJNkCg:1578251333668&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiv8O-wlO3mAhVMShUIHTAyAYYQ_AUoAXoECA4QAw&biw=951&bih=701#imgrc=Y3PrFTaIqo4VYM:" alt="French numbers">
 
+Numbers from 0-10! 
+In this excercise you have 
+
 
 <p> 
   <a href="index.html">Home</a> <br>
