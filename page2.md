@@ -1,8 +1,8 @@
 
 <h1> About France! </h1>
   
-<p> This section of the site is desgined to give you a greater knowledge of France!
-Below, is a interacitve map of France which allows you to click on the different cities and get a greater knowledge about them!</p>
+<p> This section of the site is desgined to give you a greater knowledge of France!</p>
+<p> Below, is a interacitve map of France which allows you to click on the different cities and get a greater knowledge about them!</p>
 
 
 
