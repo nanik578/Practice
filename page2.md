@@ -14,7 +14,9 @@
 
 <iframe src="https://nanik5202.h5p.com/content/1290896898916542847/embed" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://nanik5202.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
 
-<p> Here is a short excercise based on the video you have just watched on names of shops in France. Select one answer and see if you're correct. Bonne chance! </p>
+
+<p> Here is a short excercise based on the video you have just watched on names of shops in France.</p>
+<p> Select one answer and see if you're correct. Bonne chance! </p>
 
 <iframe src="https://nanik5202.h5p.com/content/1290896912126003997/embed" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://nanik5202.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
 
